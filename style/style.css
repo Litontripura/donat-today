@@ -1,0 +1,30 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.background {
+    background-image: url('/assets/images/donation0.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    height: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.btn {
+    background: #CB462F;
+    padding: 15px;
+    border-radius: 15px;
+    color: white;
+    border: none;
+
+}
+
+.content {
+    width: 826px;
+    height: 320px;
+    left: 307px;
+    top: 174px;
+}
